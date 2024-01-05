@@ -1,0 +1,9 @@
+node_modules
+
+# all config files
+*.config.js
+*.config.ts
+*.config.tsx
+
+# project files
+host.key
